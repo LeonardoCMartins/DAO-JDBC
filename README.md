@@ -3,11 +3,10 @@ Este é um projeto de exemplo que demonstra um sistema simples de gerenciamento 
 
 ## O projeto utiliza as seguintes tecnologias:
 
-Java
-JDBC (Java Database Connectivity)
-MySQL (ou outro banco de dados relacional)
-Design Patterns: DAO
-Estrutura do Projeto
+<p>Java</p>
+<p>JDBC (Java Database Connectivity)</p>
+<p>MySQL (ou outro banco de dados relacional)</p>
+<p>Design Patterns: DAO</p>
 
 ## Funcionalidades
 O sistema possui as seguintes funcionalidades:
@@ -23,7 +22,6 @@ Listagem de todos os departamentos
 Inserção de novos departamentos
 Atualização de dados de departamentos
 Exclusão de departamentos
-Tecnologias Utilizadas
 
 ## Configuração do Banco de Dados
 Para executar o projeto, é necessário configurar um banco de dados MySQL e criar as tabelas necessárias, além de configurar as conexões com o banco de dados utilizado no arquivo "db.properties". O script SQL para criação das tabelas pode ser encontrado no diretório sql na raiz do projeto.
