@@ -9,7 +9,6 @@ Este é um projeto de exemplo que demonstra um sistema simples de gerenciamento 
 <p>Design Patterns: DAO</p>
 
 ## Funcionalidades
-O sistema possui as seguintes funcionalidades:
 
 Consulta de vendedores por ID
 Consulta de vendedores por departamento
